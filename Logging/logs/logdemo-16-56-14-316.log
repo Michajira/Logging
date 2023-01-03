@@ -1,0 +1,16 @@
+16:39:55:224 [main] INFO  Demo2.LoggingDemoSecond - This is info
+16:39:55:229 [main] ERROR Demo2.LoggingDemoSecond - This is error
+16:39:55:229 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+16:39:55:229 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
+16:39:55:229 [main] INFO  Demo2.LoggingDemoSecond - This is info
+16:39:55:229 [main] ERROR Demo2.LoggingDemoSecond - This is error
+16:39:55:229 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+16:39:55:230 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
+16:50:46:408 [main] ERROR Demo.LoggingDemoFirst - This is error
+16:50:46:410 [main] FATAL Demo.LoggingDemoFirst - This is fatal
+16:51:39:360 [main] INFO  Demo.LoggingDemoFirst - This is info
+16:51:39:362 [main] ERROR Demo.LoggingDemoFirst - This is error
+16:51:39:363 [main] FATAL Demo.LoggingDemoFirst - This is fatal
+16:56:14:313 [main] INFO  Demo.LoggingDemoFirst - This is info
+16:56:14:315 [main] WARN  Demo.LoggingDemoFirst - This is warn
+16:56:14:315 [main] ERROR Demo.LoggingDemoFirst - This is error

@@ -1,0 +1,8 @@
+10:21:27:804 [main] INFO  Demo.LoggingDemoFirst - This is info
+10:21:27:809 [main] WARN  Demo.LoggingDemoFirst - This is warn
+10:21:27:810 [main] ERROR Demo.LoggingDemoFirst - This is error
+10:21:27:810 [main] FATAL Demo.LoggingDemoFirst - This is fatal
+10:22:07:526 [main] INFO  Demo.LoggingDemoFirst - This is info
+10:22:07:527 [main] WARN  Demo.LoggingDemoFirst - This is warn
+10:22:07:528 [main] ERROR Demo.LoggingDemoFirst - This is error
+10:22:07:528 [main] FATAL Demo.LoggingDemoFirst - This is fatal

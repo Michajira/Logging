@@ -1,0 +1,16 @@
+17:50:55:819 [main] INFO  Demo2.LoggingDemoSecond - This is info
+17:50:55:825 [main] ERROR Demo2.LoggingDemoSecond - This is error
+17:50:55:826 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+17:50:55:826 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
+17:50:55:826 [main] INFO  Demo2.LoggingDemoSecond - This is info
+17:50:55:826 [main] ERROR Demo2.LoggingDemoSecond - This is error
+17:50:55:826 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+17:50:55:826 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
+17:51:19:980 [main] INFO  Demo2.LoggingDemoSecond - This is info
+17:51:19:981 [main] ERROR Demo2.LoggingDemoSecond - This is error
+17:51:19:982 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+17:51:19:982 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
+17:51:19:982 [main] INFO  Demo2.LoggingDemoSecond - This is info
+17:51:19:982 [main] ERROR Demo2.LoggingDemoSecond - This is error
+17:51:19:982 [main] DEBUG Demo2.LoggingDemoSecond - This is debug
+17:51:19:983 [main] FATAL Demo2.LoggingDemoSecond - This is fatal
